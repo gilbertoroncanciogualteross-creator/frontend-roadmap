@@ -30,7 +30,7 @@ Documentando mi camino de cero a React sólido. Plan completo: CSS moderno → T
 
 ## Bitácora
 
-Un registro corto por semana, no un diario. Qué se entendió, qué costó, qué queda pendiente.
+- 14 sep: variables CSS aplicadas al dashboard, tema claro listo. Pendiente: bloque dark y toggle JS.
 
 ### Semana 1 — Flexbox (9–13 sep)
 - 9 sep: setup del repo, arrancando con ejes de Flexbox.
